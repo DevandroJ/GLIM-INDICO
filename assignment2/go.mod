@@ -1,4 +1,4 @@
-module assignment-2
+module assignment2
 
 go 1.20
 
